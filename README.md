@@ -1,1 +1,2 @@
-# password-manager  \Keep your passwords orginized
+# password-manager
+Keep your passwords orginized
